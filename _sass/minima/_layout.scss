@@ -177,7 +177,9 @@
  */
 .page-content {
   padding: $spacing-unit 0;
-  flex: 1;
+  // Update to fix for IE11 as per https://github.com/jekyll/minima/issues/247
+  // flex: 1;
+  flex: 1 0 auto;
 }
 
 .page-heading {
