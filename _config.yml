@@ -16,8 +16,8 @@
 title: One South West LHCR
 email: info@onesouthwest.org.uk
 description: One South West is a regional information sharing collaboration between NHS, social care, academia and other organisations.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://deckofpandas.github.io/onesouthwest.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/onesouthwest.github.io" # the subpath of your site, e.g. /blog
+url: "https://deckofpandas.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: One_South_West
 #github_username:  jekyll
 
